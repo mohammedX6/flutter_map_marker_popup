@@ -10,9 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_map:
-    git:
-      url: https://github.com/mohammedX6/flutter_map.git
+  flutter_map: ">=0.14.0 <1.0.0"
   latlong2: ">=0.7.0 <1.0.0"
   animated_stack_widget: ^0.0.4
 
